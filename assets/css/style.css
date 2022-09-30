@@ -119,7 +119,7 @@ strong {
     gap: 1rem;
 }
 
-li {
+.oli {
     border-top: solid .1rem;
     display: flex;
     justify-content: space-between;
@@ -284,6 +284,21 @@ text-align: right;
     font-family: ath;
     font-weight: 100;
 }
+.lastp{
+ margin: 0rem auto;
+ width: 15rem;
+}
 .lasul{
     display: inline-block;
+    list-style-type: none;
+    text-align: right;
+    margin: 10rem 0 0 95vw;
+}
+a{
+    text-decoration: none;
+    color: #388883;
+}
+a:hover{
+    text-decoration: underline;
+
 }
