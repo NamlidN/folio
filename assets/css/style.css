@@ -24,7 +24,9 @@ Im Classroom befinden sich zip-Dateien mit den Bildern und der Schrift Athene!
     font-family: ath;
     src: url(../fonts/Athene.otf);
 }
-
+.minus{
+    letter-spacing: -.2rem;
+}
 .fliegding {
     position: fixed;
     width: 100%;
